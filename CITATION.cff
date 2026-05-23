@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "BirdCLEF+ 2026 — Inference-only submission (Pantanal soundscapes)"
+type: software
+authors:
+  - family-names: Brinza
+    given-names: Serghei
+    alias: sergheibrinza
+license: Apache-2.0
+repository-code: "https://github.com/SergheiBrinza/birdclef-2026-moe-onnx"
+references:
+  - type: article
+    title: "Perch 2.0"
+    authors:
+      - family-names: "van Merrienboer"
+        given-names: "B."
+    year: 2025
+    identifiers:
+      - type: other
+        value: "arXiv:2508.04665"
+  - type: article
+    title: "BirdCLEF+ 2025 — 2nd-place CLEF Working Note"
+    authors:
+      - family-names: "Sydorskyi"
+        given-names: "V."
+      - family-names: "Goncalves"
+        given-names: "F."
+    year: 2025
+    journal: "CEUR Workshop Proceedings"
+    volume: "4038"

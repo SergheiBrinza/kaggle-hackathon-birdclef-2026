@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+.venv_*/
+env/
+
+# Model weights and artifacts (not redistributed; obtain from upstream)
+*.onnx
+*.pt
+*.pth
+*.h5
+*.tflite
+*.keras
+*.ckpt
+
+# Data and outputs
+data/
+submission.csv
+submissions/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

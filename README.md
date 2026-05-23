@@ -1,4 +1,22 @@
-# BirdCLEF+ 2026 — Inference-only submission (Pantanal soundscapes)
+<div align="center">
+
+# Kaggle &nbsp;·&nbsp; BirdCLEF+ 2026
+
+### Inference-only submission · CPU · Pantanal soundscapes
+
+[![Competition](https://img.shields.io/badge/Kaggle-BirdCLEF%2B%202026-111?style=for-the-badge&labelColor=000)](https://www.kaggle.com/competitions/birdclef-2026)
+[![License](https://img.shields.io/badge/Code-Apache%202.0-111?style=for-the-badge&labelColor=000)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-111?style=for-the-badge&labelColor=000)](#)
+[![Runtime](https://img.shields.io/badge/Runtime-CPU%20only-111?style=for-the-badge&labelColor=000)](#runtime)
+[![Public LB](https://img.shields.io/badge/Public%20LB-0.914-111?style=for-the-badge&labelColor=000)](#experiments-public-leaderboard)
+
+**`Perch 2.0 (ONNX)`** &nbsp;·&nbsp; **`4× ProtoSSM`** &nbsp;·&nbsp; **`Student CNN`** &nbsp;·&nbsp; **`Student CRNN`** &nbsp;·&nbsp; **`Site/Hour prior`**
+
+</div>
+
+---
+
+## Overview
 
 CPU-only Kaggle submission for the [BirdCLEF+ 2026 competition](https://www.kaggle.com/competitions/birdclef-2026): 234 species, Pantanal (Brazilian wetland) soundscapes, 90-minute CPU runtime budget at scoring time.
 
@@ -88,4 +106,8 @@ A machine-readable version is in [CITATION.cff](CITATION.cff).
 
 ---
 
-<sub>Unofficial project icon; not affiliated with or endorsed by Kaggle or the BirdCLEF organizers.</sub>
+<div align="center">
+
+<sub>Independent submission. Not affiliated with or endorsed by Kaggle, Google, or the BirdCLEF organizers.</sub>
+
+</div>

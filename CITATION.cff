@@ -7,7 +7,7 @@ authors:
     given-names: Serghei
     alias: sergheibrinza
 license: Apache-2.0
-repository-code: "https://github.com/SergheiBrinza/birdclef-2026-moe-onnx"
+repository-code: "https://github.com/SergheiBrinza/kaggle-hackathon-birdclef-2026"
 references:
   - type: article
     title: "Perch 2.0"

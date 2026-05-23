@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "BirdCLEF+ 2026 — Inference-only submission (Pantanal soundscapes)"
+title: "BirdCLEF+ 2026: inference-only submission (Pantanal soundscapes)"
 type: software
 authors:
   - family-names: Brinza
@@ -19,7 +19,7 @@ references:
       - type: other
         value: "arXiv:2508.04665"
   - type: article
-    title: "BirdCLEF+ 2025 — 2nd-place CLEF Working Note"
+    title: "BirdCLEF+ 2025: 2nd-place CLEF Working Note"
     authors:
       - family-names: "Sydorskyi"
         given-names: "V."

@@ -1,6 +1,6 @@
 # Third-Party Licenses and Provenance
 
-The code in this repository (everything not listed below) is original work by Serghei Brinza, released under the Apache License 2.0 — see [LICENSE](LICENSE).
+The code in this repository (everything not listed below) is original work by Serghei Brinza, released under the Apache License 2.0. See [LICENSE](LICENSE).
 
 The pre-trained artifacts and upstream code listed here are **not redistributed** in this repository. You must download them yourself from the original sources, where they remain under their respective licenses.
 
@@ -24,4 +24,4 @@ These artifacts are used **as released**: no fine-tuning, distillation, or re-tr
 
 - Perch 2.0 is © Google LLC, released by the Perch authors under Apache 2.0.
 - The Perch ONNX export and the chaneyma MoE artifacts are released under CC0 1.0 by their respective Kaggle authors, which permits the use described here without additional permission.
-- This repository does not reproduce, mirror, or imitate the Kaggle or BirdCLEF logos. The project icon in `assets/icon.svg` is an original work.
+- This repository does not reproduce, mirror, or imitate the Kaggle or BirdCLEF logos.

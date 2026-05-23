@@ -20,7 +20,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torchaudio
 
-os.environ.setdefault("TF_CPP_MIN_LOG_LEVEL", "2")
 os.environ.setdefault("CUDA_VISIBLE_DEVICES", "")
 
 SR = 32000

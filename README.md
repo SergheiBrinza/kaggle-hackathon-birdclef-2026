@@ -80,7 +80,7 @@ python src/infer_moe_onnx.py \
   --out submission.csv
 ```
 
-The script exposes 15 CLI flags in total (paths to artifact directories, fold weight prefix, legacy single-student fallback, embedding dim, etc.). Run `python src/infer_moe_onnx.py --help` for the full list. Only the five flags shown above were varied during experiments; the rest stayed at their defaults.
+The script exposes 15 CLI flags in total (paths to artifact directories, fold weight prefix, legacy single-student fallback, proto model dim, etc.). Run `python src/infer_moe_onnx.py --help` for the full list. Only the five flags shown above were varied during experiments; the rest stayed at their defaults.
 
 You will also need to download the pre-trained artifacts yourself from the sources listed in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) and arrange them under the paths the defaults expect, or override via the path flags.
 
